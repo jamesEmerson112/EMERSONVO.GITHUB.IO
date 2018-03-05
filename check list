@@ -1,0 +1,61 @@
+Create a personal Web site using the UNLV Rebel Sites Student Web Publishing System.
+Your site must include three HTML files and one CSS file: home.html, links.html, summary.html, and
+main.css. The requirements for each file are as follows:
+home.html
+•x include a link tag that incorporates the external main.css stylesheet
+•x include a header stating your name, class and section, and semester
+•x display at least one photo (typically of yourself, but not required)
+•x include some information about yourself
+•x post links to the other two html files
+
+links.html
+• xinclude a link tag that incorporate the external main.css stylesheet
+• xinclude a title bar and page title that indicates the purpose of the page (something like “Links”
+will suffice)
+•x include a list of at least 5 of your favorite links (make sure they are do not violate the OIT usage
+policy)
+•x include a link back to the home page
+
+summary.html
+• include a link tag that incorporates the external main.css stylesheet
+• include a title bar and page title that indicates the purpose of the page (something like
+“Architecture Summary”)
+• include a 2-4 paragraph summary of the von Neumann computer architecture
+ Source: xkcd.com/934
+•x include a diagram, schematic, or image depicting the von Neumann computer architecture
+◦x you may design your own or, you may use any non-copyrighted image from the web
+• include a link back to the home page
+main.css
+• Use the main.css file to set the background. The background can either be a color you select or
+an image
+• Set the font to sans-serif
+• Center all headers
+• Feel free to experiment with other styling options as desired
+The goal is to demonstrate some creativity and visual appeal for your page! For example, you should
+choose contrasting font and background colors so the content is easily readable. You must create the
+site and develop the HTML yourself (i.e., in a text editor) and not use any high-level tools (such as
+GoogleSites, DreamWeaver, etc.).
+The TA and myself will select several of the best sites and they will be shown in class.
+Note, you are not allowed to use copyrighted material.
+You are free to reference the W3Schools tutorials on HTML and CSS (http://www.w3schools.com/)
+Prerequisites:
+This assignment will require a UNLV ACE account log-in (username and password), which you should
+already have.
+Implementation Guidance:
+Step 1:
+Become familiar with a text editor. Examples include Notepad / Notepad++ (Windows), Text Wranger
+(MAC), or gEdit (linux). Be able to create and edit a text file. Notepad++ is pre-installed on all UNLV
+lab machines. If necessary, request assistance from the lab monitor.
+Step 2:
+Review the HTML Basics document, posted lecture notes, and your class notes. Ensure that you are
+familiar with the following:
+• Basic HTML document formatting requirements (including the html body, and head tags).
+• Basic text formatting tags (including various header levels, paragraph, bold, italic) and the
+associated nesting requirements. Also includes HTML tags for color, images and links.
+• Internet color specifications (red, green, and blue intensities).
+Step 3:
+Login to any UNLV lab machine (e.g., library, TBE-A311, etc.). Use the text editor to create a basic
+web page. The file should be named index.html (lower case). Unless you are already familiar with
+HTML, it is suggested that you start with only the basic items outlined in the assignment guidance
+(above). Note, you may create the file at home an transfer it to a lab machine when you arrive on
+campus (via USB drive, or e-mail, etc.).
